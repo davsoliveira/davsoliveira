@@ -8,7 +8,7 @@
     
 <div style="display: inline_block"><br>
   <h2>Frontend Skills</h2>
-  <img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
+  <img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" />
 </div>
  
 <br>
